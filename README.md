@@ -12,5 +12,4 @@
 
 ##### Tools used :
 * Notepad ++
-tic_tac_toe
-# tic_tac_toe
+
